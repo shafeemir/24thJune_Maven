@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-28T13:18:17 IST" name="Default suite" finished-at="2023-11-28T13:19:27 IST" duration-ms="70639">
+    <groups>
+    </groups>
+    <test started-at="2023-11-28T13:18:17 IST" name="Default test" finished-at="2023-11-28T13:19:27 IST" duration-ms="70639">
+      <class name="DemoQa_Test.TestClass">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:DemoQa_Test.TestClass@4802796d]" started-at="2023-11-28T13:18:17 IST" name="openBrowser" finished-at="2023-11-28T13:19:10 IST" duration-ms="53661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="websiteOpen()[pri:0, instance:DemoQa_Test.TestClass@4802796d]" started-at="2023-11-28T13:19:11 IST" name="websiteOpen" finished-at="2023-11-28T13:19:13 IST" duration-ms="2409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- websiteOpen -->
+        <test-method signature="verifyTitle()[pri:0, instance:DemoQa_Test.TestClass@4802796d]" started-at="2023-11-28T13:19:13 IST" name="verifyTitle" finished-at="2023-11-28T13:19:25 IST" duration-ms="12057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="CloseWebsite()[pri:0, instance:DemoQa_Test.TestClass@4802796d]" started-at="2023-11-28T13:19:25 IST" name="CloseWebsite" finished-at="2023-11-28T13:19:27 IST" duration-ms="2205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseWebsite -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:DemoQa_Test.TestClass@4802796d]" started-at="2023-11-28T13:19:27 IST" name="closeBrowser" finished-at="2023-11-28T13:19:27 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- DemoQa_Test.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
